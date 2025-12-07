@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="Banner.png" width="100%" alt="Profile Banner" />
+</div>
+<br/>
+
 <h1 align="center">Hi 👋, I'm Sumit Mishra</h1>
-<h3 align="center">A passionate frontend, Back-end and Deveops developer from India</h3>
+<h3 align="center">A passionate Frontend, Backend, and DevOps Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdsaGZteDV3bXNtZ3N4dnE5M2o0N2kxbHV1M2kycTZheGQxZHllaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
@@ -9,7 +14,7 @@
 
 - 🔭 I’m currently working on **CRM**
 
-- 🌱 I’m currently learning **Deveops**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://animated-gaufre-1e3cfb.netlify.app/#about](https://animated-gaufre-1e3cfb.netlify.app/#about)
 
