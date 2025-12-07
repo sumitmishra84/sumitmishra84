@@ -1,16 +1,27 @@
 <div align="center">
   <img src="Banner.png" width="100%" alt="Profile Banner" />
+  
+  <br/><br/>
+
+  <h1>Hi 👋, I'm Sumit Mishra</h1>
+  <h3>A passionate Frontend, Backend, and DevOps Developer from India</h3>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;React+%26+Node.js+Expert;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </div>
+
 <br/>
 
 <div align="center">
-  <h1>Hi 👋, I'm Sumit Mishra</h1>
-  <h3>A passionate Frontend, Backend, and DevOps Developer from India</h3>
-  
   <img src="https://komarev.com/ghpvc/?username=sumitmishra84&label=Profile%20Views&color=0e75b6&style=flat" alt="sumitmishra84" />
   
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?logo=twitter&style=flat&color=0e75b6&label=Follow" alt="Twitter" />
+  </a>
+  
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -26,7 +37,6 @@
         <li>👨‍💻 Portfolio: <a href="https://animated-gaufre-1e3cfb.netlify.app/#about"><b>Check my work</b></a></li>
         <li>💬 Ask me about <b>React, Node.js, Vue, and GSAP</b></li>
         <li>📫 Contact: <b>sm0141136@gmail.com</b></li>
-        <li>📄 Experience: <a href="YOUR_LINKEDIN_URL"><b>My Resume / LinkedIn</b></a></li>
         <li>⚡ Fun fact: <b>I think I am funny!</b></li>
       </ul>
     </td>
